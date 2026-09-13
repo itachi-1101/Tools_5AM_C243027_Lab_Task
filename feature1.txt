@@ -1,1 +1,1 @@
-This is a branch feature-1
+This line is changed by conflict_b
